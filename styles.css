@@ -24,3 +24,16 @@ canvas {
   text-align: center;
   color: white;
 }
+
+a {
+  color: lightcyan;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+a:visited {
+  color: lightcyan;
+}

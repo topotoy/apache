@@ -26,16 +26,16 @@ canvas {
 }
 
 a {
-  color: lightcyan;
+  color: cyan;
   text-decoration: none;
 }
 
 a:visited {
-  color: lightcyan;
+  color: cyan;
   text-decoration: none;
 }
 
 a:hover {
-  color: lightcyan;
+  color: cyan;
   text-decoration: underline;
 }
